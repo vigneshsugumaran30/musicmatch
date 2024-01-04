@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+nav ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+    margin-left: 500px;
+    color: rgb(50, 50, 50);
+}
+.s1 {
+    display: inline;
+    margin-right: 250px;
+    height: 32px;
+    width: 70px;
+    border-radius: 15px;
+    border-color: black;
+    background-color: black;
+    color: white;
+}
+.s2 {
+    width: 30px;
+    border-radius: 5px;
+    border-color: red;
+    background-color: red;
+    color: white;
+    font-size: 8px;
+}
+.music {
+    font-size: 90px;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.main-section {
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+}
+.subdiv-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subdiv-1 ul {
+    list-style-type: none;
+}
+.subdiv-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40px;
+}
+.subdiv-2 ul {
+    list-style-type: none;
+}
+.subdiv-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40px;
+}
+.subdiv-3 ul {
+    list-style-type: none;
+}
+.subdiv-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40px;
+}
+.subdiv-4 ul {
+    list-style-type: none;
+}
+.s3 {
+    height: 50px;
+    width: 120px;
+    border-radius: 10px;
+    border-color: white;
+    margin-left: 650px;
+    font-size: 18px;
+}
+.b1 {
+    margin-left: 50px;
+    margin-top: 80px;
+    font-size: 28px;
+    color: gray;
+    text-align: center;
+}
+.s4 {
+    text-align: center;
+}
+.b2 {
+    font-size: 40px;
+    margin-left: 60px;
+}
+.section-1 {
+    border-bottom: black;
+    background-color: rgb(221, 202, 202);
+    padding: 40px;
+    margin: 60px;
+    border-radius: 15px;
+    
+}
+
